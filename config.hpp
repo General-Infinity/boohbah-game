@@ -1,0 +1,7 @@
+#ifndef CONFIG_HPP_INCLUDED
+#define CONFIG_HPP_INCLUDED
+
+#define MAX_OBJ_SIZE 1024
+
+
+#endif // CONFIG_HPP_INCLUDED
